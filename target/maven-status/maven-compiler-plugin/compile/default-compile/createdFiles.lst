@@ -1,0 +1,8 @@
+com\mycompany\gestordeturnosgubernamental\resources\JakartaEE8Resource.class
+com\mycompany\gestordeturnosgubernamental\logica\Tramite.class
+com\mycompany\gestordeturnosgubernamental\logica\Turno.class
+com\mycompany\gestordeturnosgubernamental\logica\Ciudadano_.class
+com\mycompany\gestordeturnosgubernamental\logica\Tramite_.class
+com\mycompany\gestordeturnosgubernamental\JakartaRestConfiguration.class
+com\mycompany\gestordeturnosgubernamental\logica\Turno_.class
+com\mycompany\gestordeturnosgubernamental\logica\Ciudadano.class
